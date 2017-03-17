@@ -29,6 +29,10 @@ a {
   font-size: 16px;
 }
 
+video {
+  background-color: white;
+}
+
 h4 {
   text-align: right;
   color: gray;
